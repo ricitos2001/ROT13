@@ -1,2 +1,2 @@
 # ROT13
-ES: encriptador y desencriptador de ROT13<br>EN: encriptador y desencriptador de ROT13
+ES: encriptador y desencriptador de ROT13<br>EN: encrypter y desencrypter of ROT13
